@@ -1,0 +1,23 @@
+{
+  "name": "zpl-preview",
+  "version": "0.1.0",
+  "description": "Parse ZPL strings and generate PNG previews in JavaScript.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node examples/asset-tag.js"
+  },
+  "keywords": [
+    "zpl",
+    "zebra",
+    "label",
+    "png",
+    "preview",
+    "parser"
+  ],
+  "author": "Matt Beard",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.11.2"
+  }
+}
